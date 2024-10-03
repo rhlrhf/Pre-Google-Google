@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+.header { 
+    margin-top: 330px;
+}
+
+.searchbar {
+    width: 210px;
+    border: 1px solid lightgray;
+    line-height: 5px;
+    border-radius: 14px;
+    padding: 2px;
+    margin: 10px;
+}
+
+.btns1-2 {
+    display: block;
+    margin: 0 0 auto;
+    border-radius: 30px;
+}
+
